@@ -1,0 +1,7 @@
+{
+  "error.insertError": "Error creating a courseasset",
+  "error.deleteError": "Error deleting a courseasset",
+  "error.deleteMissing": "The courseassets record to be deleted cannot be found",
+  "error.dataFormat": "Courseassets error. The course ID or content ID was not provided or could not be found",
+  "error.findAssetError": "Courseasset record creation failed. A matching asset could not be found"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "adapt-authoring-courseassets",
+  "version": "0.0.1",
+  "description": "Module for managing courseassets",
+  "homepage": "https://github.com/deltanetdan/adapt-authoring-courseassets",
+  "license": "GPL-3.0",
+  "repository": "github:deltanetdan/adapt-authoring-courseassets",
+  "main": "index.js",
+  "peerDependencies": {
+    "adapt-authoring-api": "github:adapt-security/adapt-authoring-api.git",
+    "adapt-authoring-core": "github:adapt-security/adapt-authoring-core.git",
+    "adapt-authoring-content": "github:adapt-security/adapt-authoring-content.git",
+    "adapt-authoring-mongodb": "github:adapt-security/adapt-authoring-mongodb.git"
+  }
+}

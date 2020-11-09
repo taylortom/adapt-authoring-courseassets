@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "A course asset",
+  "type": "object",
+  "properties": {
+    "_courseId": {
+      "description": "Course record unique ID",
+      "type": "string"
+    },
+    "_contentId": {
+      "description": "The ID for the content record that uses this asset",
+      "type": "string"
+    },
+    "_assetId": {
+      "description": "Asset record unique ID",
+      "type": "string"
+    },
+    "assetCount": {
+      "description": "Number of time the asset has ben used in this course",
+      "type": "number",
+      "default": 1
+    }
+  },
+  "required": ["_courseId", "_contentId", "_assetId"]
+}
