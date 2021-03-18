@@ -6,15 +6,18 @@
   "properties": {
     "_courseId": {
       "description": "Course record unique ID",
-      "type": "string"
+      "type": "string",
+      "isObjectId": true
     },
     "_contentId": {
       "description": "The ID for the content record that uses this asset",
-      "type": "string"
+      "type": "string",
+      "isObjectId": true
     },
     "_assetId": {
       "description": "Asset record unique ID",
-      "type": "string"
+      "type": "string",
+      "isObjectId": true
     },
     "assetCount": {
       "description": "Number of time the asset has ben used in this course",
