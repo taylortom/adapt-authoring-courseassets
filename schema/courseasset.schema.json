@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$anchor": "courseasset",
-  "description": "A course asset",
+  "description": "Metadata related to where an asset is used in a course",
   "type": "object",
   "properties": {
     "_courseId": {
