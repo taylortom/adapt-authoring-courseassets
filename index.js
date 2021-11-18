@@ -1,2 +1,1 @@
-const CourseAssetsModule = require('./lib/courseassetsModule');
-module.exports = CourseAssetsModule;
+export { default } from './lib/courseassetsModule.js';

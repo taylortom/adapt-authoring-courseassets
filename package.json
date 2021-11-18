@@ -4,6 +4,7 @@
   "description": "Module for managing courseassets",
   "homepage": "https://github.com/deltanetdan/adapt-authoring-courseassets",
   "license": "GPL-3.0",
+  "type": "module",
   "main": "index.js",
   "repository": "deltanetdan/adapt-authoring-courseassets",
   "peerDependencies": {
