@@ -6,7 +6,7 @@
   "license": "GPL-3.0",
   "type": "module",
   "main": "index.js",
-  "repository": "deltanetdan/adapt-authoring-courseassets",
+  "repository": "github:adapt-security/adapt-authoring-courseassets",
   "peerDependencies": {
     "adapt-authoring-api": "github:adapt-security/adapt-authoring-api",
     "adapt-authoring-core": "github:adapt-security/adapt-authoring-core",
