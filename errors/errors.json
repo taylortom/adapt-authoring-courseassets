@@ -1,0 +1,10 @@
+{
+  "RESOURCE_IN_USE": {
+    "data": {
+      "type": "Type of resource",
+      "courses": "Courses using the resource"
+    },
+    "description": "Resource is currently being using in courses",
+    "statusCode": 400
+  }
+}
