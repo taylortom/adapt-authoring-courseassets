@@ -4,21 +4,21 @@
   "description": "Metadata related to where an asset is used in a course",
   "type": "object",
   "properties": {
-    "_courseId": {
+    "courseId": {
       "description": "Course record unique ID",
       "type": "string",
       "isObjectId": true
     },
-    "_contentId": {
+    "contentId": {
       "description": "The ID for the content record that uses this asset",
       "type": "string",
       "isObjectId": true
     },
-    "_assetId": {
+    "assetId": {
       "description": "Asset record unique ID",
       "type": "string",
       "isObjectId": true
     }
   },
-  "required": ["_courseId", "_contentId", "_assetId"]
+  "required": ["courseId", "contentId", "assetId"]
 }
