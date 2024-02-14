@@ -14,7 +14,7 @@
     "adapt-authoring-mongodb": "github:adapt-security/adapt-authoring-mongodb"
   },
   "devDependencies": {
-    "eslint": "^8.36.0",
-    "standard": "^17.0.0"
+    "eslint": "^8.56.0",
+    "standard": "^17.1.0"
   }
 }
